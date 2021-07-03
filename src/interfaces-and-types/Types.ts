@@ -1,0 +1,2 @@
+/*Possible type of scroll target*/
+export type TScrollTarget = 'header-section' | 'design-section' | 'plan-section' | 'build-section' | 'maintain-section' | 'contact-us-section' | 'footer-section' | 'welcome-section' | undefined;
