@@ -472,7 +472,7 @@ export default defineComponent({
 
 <style lang="scss" scoped>
     .terms-and-conditions-section-background {
-        background-color: rgba(var(--color-background-0), 0.9);
+        background-color: rgba(var(--color-background-0), 0.95);
     }
     .terms-and-conditions-section-container {
         max-width: 960px;

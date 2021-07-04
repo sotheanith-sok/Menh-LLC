@@ -6,6 +6,7 @@ import {
 import HomePage from '../views/HomePage.vue';
 import TermsAndConditionsPage from '../views/TermsAndConditionsPage.vue';
 import PrivacyPolicyPage from '../views/PrivacyPolicyPage.vue';
+import PageNotFoundPage from '../views/PageNotFoundPage.vue';
 
 const routes: Array<RouteRecordRaw> = [
     {
@@ -22,6 +23,11 @@ const routes: Array<RouteRecordRaw> = [
         path: '/privacy-policy',
         name: 'PrivacyPolicyPage',
         component: PrivacyPolicyPage,
+    },
+    {
+        path: '/:catchAll(.*)',
+        name: 'PageNotFoundPage',
+        component: PageNotFoundPage,
     },
 ];
 

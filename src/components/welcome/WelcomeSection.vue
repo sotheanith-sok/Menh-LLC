@@ -114,7 +114,7 @@ export default defineComponent({
         color: rgb(var(--color-text));
         font-weight: 400;
         font-size: 1.5rem;
-        border-radius: 100px;
+        border-radius: 1rem;
         border-color: transparent;
         cursor: pointer;
         -webkit-tap-highlight-color: transparent;

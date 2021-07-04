@@ -603,7 +603,7 @@ export default defineComponent({
 
 <style lang="scss" scoped>
     .privacy-policy-section-background {
-        background-color: rgba(var(--color-background-0), 0.9);
+        background-color: rgba(var(--color-background-0), 0.95);
     }
     .privacy-policy-section-container {
         max-width: 960px;
