@@ -1,5 +1,7 @@
 <h1 align="center" style="border: none"><a href="https://menh.llc/">Menh LLC</a></h1>
 
+![Menh LLC](https://github.com/sotheanith/Menh-LLC/blob/main/Capture.JPG)
+
 ## Overview
 A responsive static website for Menh LLC, the construction company located in Long Beach. 
 
