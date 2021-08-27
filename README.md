@@ -1,7 +1,7 @@
 <h1 align="center" style="border: none"><a href="https://menh.llc/">Menh LLC</a></h1>
 
 ## Overview
-A static website for Menh LLC, the construction company located in Long Beach. 
+A responsive static website for Menh LLC, the construction company located in Long Beach. 
 
 ## Prerequisites
  - [Javascript](https://www.javascript.com/)
