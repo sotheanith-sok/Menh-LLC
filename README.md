@@ -12,4 +12,4 @@ A responsive static website for Menh LLC, the construction company located in Lo
  - [Vue](https://vuejs.org/)
 
 ## Authors
- - [Sotheanith Sok](https://github.com/sotheanith "Sotheanith Sok")
+ - [Sotheanith Sok](https://github.com/sotheanith-sok "Sotheanith Sok")
